@@ -1,0 +1,14 @@
+langchain==1.2.12
+langchain-openai==1.1.11
+langchain-core==1.2.19
+langchain-community==0.4.1
+fastapi==0.135.1
+neo4j-graphrag==1.13.1
+langgraph==1.1.2
+python-dotenv==1.2.2
+jupyter==1.1.1
+ipykernel==7.2.0
+pydantic==2.12.5
+typing-extensions==4.15.0
+uvicorn==0.42.0
+pandas==3.0.1
